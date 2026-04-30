@@ -1,4 +1,4 @@
-﻿# Hand Land Project
+﻿# Hand Language Project
 
 Hệ thống nhận diện cử chỉ tay bằng AI cho giao tiếp ngôn ngữ ký hiệu.
 
