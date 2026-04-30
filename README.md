@@ -3,14 +3,15 @@
 Hệ thống nhận diện cử chỉ tay bằng AI cho giao tiếp ngôn ngữ ký hiệu.
 
 Dự án xây dựng một pipeline xử lý hình ảnh và học sâu để phát hiện và nhận dạng các cử chỉ tay thời gian thực, hỗ trợ giao tiếp cho người khuyết tật.
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/b7e4676c-f935-417a-91e0-f2561fa279bb" />
 
 ## Tính năng chính
 
 - Nhận diện cử chỉ tay thời gian thực từ camera
 - Mô hình học sâu tùy chỉnh được huấn luyện bằng TensorFlow/Keras
-- Phân loại ký hiệu tay tiếng Việt
+- Phân loại ký hiệu tay
 - Demo và bộ công cụ phát hiện nằm trong `Hand_Lang/demo.py`
-- Mô hình đã huấn luyện lưu tại `Hand_Lang/models/saved_model.keras`
+- Mô hình đã huấn luyện lưu tại `Hand_Lang/models`
 
 ## Công nghệ sử dụng
 
